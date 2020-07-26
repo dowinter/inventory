@@ -1,4 +1,14 @@
-# inventory project
+# inventory
+Author: Dominik Winter
+Technologies: Quarkus, MicroProfile RESTClient, JPA, CDI
+
+Example code for my 15 minute talk "mono-2-micro: Decoupling components with MicroProfile RESTClient and Quarkus".
+
+All projects:
+* https://github.com/dowinter/monolith-example
+* https://github.com/dowinter/inventory
+* https://github.com/dowinter/shopping-cart
+
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
